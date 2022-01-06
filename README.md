@@ -13,7 +13,7 @@ This proyect have an example of using animations, custom painters, slideshows, s
 
 ### Emergency Design
 
-![Emergency view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true)
+![Emergency view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/emergency.png?raw=true)
 
 ### Custom painter Design
 
