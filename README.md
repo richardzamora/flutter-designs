@@ -4,24 +4,24 @@ This proyect have an example of using animations, custom painters, slideshows, s
 
 ## Content
 
-![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true | width=100)
+![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true width=100)
 
 ### Slideshow
 
 
-![Slideshow view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true | width=150)
+![Slideshow view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true width=150)
 
 ### Emergency Design
 
-![Emergency view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true | width=200)
+![Emergency view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true width=200)
 
 ### Custom painter Design
 
-![Header view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/customPainter.png | width=100)
+![Header view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/customPainter.png width=100)
 
 ### Animated box
 
-![AnimatedBox view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/AnimatedBox.png | width=150)
+![AnimatedBox view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/AnimatedBox.png width=150)
 
 ### Circular progress bar
 
