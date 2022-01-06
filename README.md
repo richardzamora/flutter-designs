@@ -4,11 +4,12 @@ This proyect have an example of using animations, custom painters, slideshows, s
 
 ## Content
 
-![alt text](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true)
+![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true?width="200")
 
 ### Slideshow
 
 
+![Slideshow view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true)
 
 ### Emergency Design
 
