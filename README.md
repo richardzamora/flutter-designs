@@ -4,7 +4,7 @@ This proyect have an example of using animations, custom painters, slideshows, s
 
 ## Content
 
-![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png =250x ?raw=true)
+![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true)
 
 ### Slideshow
 
@@ -13,27 +13,27 @@ This proyect have an example of using animations, custom painters, slideshows, s
 
 ### Emergency Design
 
-
+![Emergency view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slideshow.png?raw=true)
 
 ### Custom painter Design
 
-
+![Header view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/customPainter.png?raw=true)
 
 ### Animated box
 
-
+![AnimatedBox view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/AnimatedBox.png?raw=true)
 
 ### Circular progress bar
 
-
+![CircularProgressBar view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/circularProgressBar.png?raw=true)
 
 ### Pinterest layoutModel
 
-
+![PinterestLayout view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/pinterestLayout.png?raw=true)
 
 ### Slivers
 
-
+![Slivers view](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/slivers.png?raw=true)
 
 
 ## Getting Started from flutter
