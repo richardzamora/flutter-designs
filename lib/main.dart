@@ -13,7 +13,7 @@ void main() => runApp(
       // ),
       MultiProvider(
         providers: [
-          ChangeNotifierProvider(create: (_) => new ThemeChanger(2)),
+          ChangeNotifierProvider(create: (_) => new ThemeChanger(3)),
           ChangeNotifierProvider(create: (_) => new LayoutModel()),
         ],
         child: MyApp(),

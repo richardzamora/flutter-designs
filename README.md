@@ -1,8 +1,41 @@
-# custom_painters
+# flutter_designs
 
-A new Flutter project.
+This proyect have an example of using animations, custom painters, slideshows, sliver list, themes and portrait and landscape views
 
-## Getting Started
+## Content
+
+![alt text](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true)
+
+### Slideshow
+
+
+
+### Emergency Design
+
+
+
+### Custom painter Design
+
+
+
+### Animated box
+
+
+
+### Circular progress bar
+
+
+
+### Pinterest layoutModel
+
+
+
+### Slivers
+
+
+
+
+## Getting Started from flutter
 
 This project is a starting point for a Flutter application.
 
