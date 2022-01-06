@@ -4,7 +4,7 @@ This proyect have an example of using animations, custom painters, slideshows, s
 
 ## Content
 
-![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png?raw=true?width="200")
+![main](https://github.com/richardzamora/flutter-designs/blob/main/screenshots/main.png =250x ?raw=true)
 
 ### Slideshow
 
